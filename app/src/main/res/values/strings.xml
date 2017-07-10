@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Un-Follow</string>
+    <string name="Client_ID">0a32dd69abdd41a5b83789961378ac42</string>
+    <string name="Redirect_URI">http://padpors.com</string>
+</resources>
